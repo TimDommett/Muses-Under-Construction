@@ -24,6 +24,15 @@
   color: #61dafb;
 }
 
+.landingTitle {
+  color: #7FBF7F;
+}
+
+.landingPara {
+  max-width: 60%; 
+    color: #7FBF7F;
+
+}
 
 
 @keyframes App-logo-spin {

@@ -14,7 +14,7 @@ function App() {
         <p className="landingPara">
           We are a Non-Profit Organisation devoted to giving equal access to
           education for all. If you would like to contribute or learn more
-          chat to us on the bottome right.
+          chat to us on the bottome right. 
         </p>
       </header>
     </div>

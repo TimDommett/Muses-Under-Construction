@@ -26,11 +26,13 @@
 
 .landingTitle {
   color: #7FBF7F;
+  font-family: 'Alegreya', serif;
 }
 
 .landingPara {
   max-width: 60%; 
-    color: #7FBF7F;
+  color: #7FBF7F;
+  font-family: 'Alegreya', serif;
 
 }
 

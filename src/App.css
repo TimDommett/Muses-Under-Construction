@@ -8,6 +8,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+.heroLogo {
+  height: 60vmin;
+  pointer-events: none;
+}
 
 .App-header {
   background-color: #2D2F36;

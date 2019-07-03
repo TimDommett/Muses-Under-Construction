@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Projects from './Components/Projects/Projects';
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
           education for all. If you would like to contribute or learn more
           chat to us on the bottom right.
         </p>
+
+        {/* <Projects/> */}
+
       </header>
     </div>
   );

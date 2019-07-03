@@ -19,7 +19,7 @@ function App() {
           chat to us on the bottom right.
         </p>
 
-        {/* <Projects/> */}
+        <Projects/>
 
       </header>
     </div>
